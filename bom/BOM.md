@@ -10,4 +10,7 @@
 | --- | --- | --- |
 | Week 1 | Tier 2 | $65.00 |
 
-_No parts listed yet._
+_Parts_
+
+ESP32 C3 DEVKIT M1 https://www.mouser.de/en/ProductDetail/Espressif-Systems/ESP32-C3-DevKitM-1-N4X?qs=olJun0bQHM8KNNDD%252BFT48A%3D%3D
+
