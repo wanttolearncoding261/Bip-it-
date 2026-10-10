@@ -21,7 +21,7 @@
 | [5 mm green LED](https://www.unikeyic.com/products/led/151031vs06000/31427015.html?sku=1003001012810264) | lights up | 1 | $0.22 | $0.22 | [unikeyc](https://www.unikeyic.com/products/led/151031vs06000/31427015.html?sku=1003001012810264) |
 | [5 mm blue LED](https://www.unikeyic.com/products/led/wp710a10qbc-d/12608811.html?sku=1003001017715861) | lights up | 1 | $0.28 | $0.28 | [unikeyc](https://www.unikeyic.com/products/led/wp710a10qbc-d/12608811.html?sku=1003001017715861) |
 | **Parts subtotal** | — | — | — | **$21.44** | — |
-| **Tax & shipping** | — | — | — | **$23.00** | — |
-| **Total** | — | — | — | **$44.44** | — |
+| **Tax & shipping** | — | — | — | **$8.90** | — |
+| **Total** | — | — | — | **$30.34** | — |
 
-$20.56 left of the tier's funding.
+$34.66 left of the tier's funding.
