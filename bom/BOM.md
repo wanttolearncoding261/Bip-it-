@@ -17,3 +17,7 @@ _Parts_
 -R 330 https://www.unikeyic.com/products/through-hole-resistors/mfr50sfte52-330r/6877922.html?sku=1003001038084765
 
 -Rotary encoder https://www.unikeyic.com/products/rotary-switches/srbv160803/33818447.html?sku=1003001431015093
+
+-Push buttons https://www.unikeyic.com/products/keypad-switches/3eth9-11-0/522659.html?sku=1129001410906
+
+-Flip switches https://www.unikeyic.com/products/slide-switches/ss22sdp2/33861152.html?sku=1003001026937538
