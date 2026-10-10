@@ -13,4 +13,5 @@
 _Parts_
 
 ESP32 C3 DEVKIT M1 https://www.mouser.de/en/ProductDetail/Espressif-Systems/ESP32-C3-DevKitM-1-N4X?qs=olJun0bQHM8KNNDD%252BFT48A%3D%3D
-
+R 330 https://www.unikeyic.com/products/through-hole-resistors/mfr50sfte52-330r/6877922.html?sku=1003001038084765
+Rotary encoder https://www.unikeyic.com/products/rotary-switches/srbv160803/33818447.html?sku=1003001431015093
