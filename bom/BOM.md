@@ -21,3 +21,9 @@ _Parts_
 -Push buttons https://www.unikeyic.com/products/keypad-switches/3eth9-11-0/522659.html?sku=1129001410906
 
 -Flip switches https://www.unikeyic.com/products/slide-switches/ss22sdp2/33861152.html?sku=1003001026937538
+
+-5mm Red LED https://www.unikeyic.com/products/led/333-2surc-s530-a3/31681147.html?sku=1003001014231313
+
+-5mm Green LED https://www.unikeyic.com/products/led/151031vs06000/31427015.html?sku=1003001012810264
+
+-5mm Blue LED https://www.unikeyic.com/products/led/wp710a10qbc-d/12608811.html?sku=1003001017715861
