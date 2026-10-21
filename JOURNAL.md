@@ -4,9 +4,9 @@
 <!-- Generated: 2026-10-10T19:33:47.238Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvgo2xe00em01q9dfpyde57). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A  Reaction testing game    (definitly not a DIY bop it)
+> A  Reaction testing game    (definitly not a DIY bop it) which uses a ESP 32 S3 as its main processsor
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
