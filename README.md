@@ -12,5 +12,5 @@ and if u are going to simulate it in wokiwi thsi is how it should be wired
  its for people who want to make their owm games GUIs or gaming hub they can learn in this small device instead of making a huge cyberdeck and its small enough to be able to take it anywhere
 
 # why it works 
- how people or you saw there the components are connected to Gpio pins which sends electrical signals to components and for switches and buttons ii like to imagine it as resistors which changes the value of the current 
+ how people or you saw there, the components are connected to Gpio pins which sends electrical signals to components and for switches and buttons i like to imagine it as resistors which changes the value of the current 
  and the ESP 32 reads this change and registers it as a input 
